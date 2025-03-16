@@ -1,3 +1,8 @@
+# Certification
+
+![Scientific_Computing_With_Python](https://github.com/user-attachments/assets/c3c41c73-9ae2-4c0a-9ff0-4e94d49fadd5)
+
+
 # #1 Arithmetic arranger
 Rearrange arithmetic problems to top-down view
 
@@ -27,3 +32,13 @@ takes input like this:
 Outputs rectangles and squares with given dimensions:
 
 ![polygon_area_calc2](https://github.com/user-attachments/assets/0dced29a-3f3a-4f50-9748-710e68000817)
+
+# #5 Probability calculator
+
+Hat( ) ==> class takes the total number of balls and colors you want to add.
+
+expected_balls ==> the specific number of each color you want to calculate the probability for.
+
+![Probability_calc](https://github.com/user-attachments/assets/cd712f6a-ebf6-41a7-bb78-34442ac53e28)
+
+
